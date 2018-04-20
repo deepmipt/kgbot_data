@@ -1,0 +1,43 @@
+{"id": 1, "slug": "concert", "name": "Концерты"}
+{"id": 2, "slug": "theater", "name": "Театр (спектакли, опера, балет итд)"}
+{"id": 3, "slug": "education", "name": "Знания"}
+{"id": 4, "slug": "party", "name": "Вечеринки"}
+{"id": 5, "slug": "sport", "name": "Спорт (Раздел Отдых)"}
+{"id": 6, "slug": "exhibition", "name": "Выставки"}
+{"id": 7, "slug": "tour", "name": "Экскурсии"}
+{"id": 8, "slug": "festival", "name": "Фестивали (Фестивали)"}
+{"id": 9, "slug": "cinema", "name": "Кино (Развлечения)"}
+{"id": 10, "slug": "fashion", "name": "Мода"}
+{"id": 11, "slug": "show", "name": "Шоу (Развлечения)"}
+{"id": 12, "slug": "holiday", "name": "Праздники"}
+{"id": 13, "slug": "social-activity", "name": "Благотворительность"}
+{"id": 14, "slug": "yarmarki-razvlecheniya-yarmarki", "name": "Ярмарки (Развлечения, Ярмарки)"}
+{"id": 15, "slug": "games", "name": "Игры (Развлечения)"}
+{"id": 16, "slug": "night", "name": "Ночь"}
+{"id": 17, "slug": "meeting", "name": "Встречи"}
+{"id": 18, "slug": "speed-dating", "name": "Быстрые свидания (Развлечения)"}
+{"id": 19, "slug": "flashmob", "name": "Флешмобы (Развлечения)"}
+{"id": 20, "slug": "masquerade", "name": "Маскарады (Развлечения)"}
+{"id": 21, "slug": "romance", "name": "Романтика (Развлечения)"}
+{"id": 22, "slug": "dance-trainings", "name": "Занятия танцами (Раздел Отдых)"}
+{"id": 23, "slug": "evening", "name": "Творческие вечера"}
+{"id": 24, "slug": "discount", "name": "Скидки"}
+{"id": 25, "slug": "stock", "name": "Акции"}
+{"id": 26, "slug": "sale", "name": "Распродажа (Магазины)"}
+{"id": 27, "slug": "shopping", "name": "Шопинг (Магазины)"}
+{"id": 28, "slug": "quest", "name": "Квесты"}
+{"id": 29, "slug": "ball", "name": "Балы (Развлечения)"}
+{"id": 30, "slug": "yoga", "name": "Йога"}
+{"id": 31, "slug": "presentation", "name": "Презентации"}
+{"id": 32, "slug": "magic", "name": "Фокусники, иллюзионисты (Развлечения)"}
+{"id": 33, "slug": "kvn", "name": "КВН (Развлечения)"}
+{"id": 34, "slug": "comedy-club", "name": "Comedy club / Камеди клаб (Развлечения)"}
+{"id": 35, "slug": "stand-up", "name": "Стендап (Развлечения)"}
+{"id": 36, "slug": "kids", "name": "Детские (раздел детям)"}
+{"id": 37, "slug": "circus", "name": "Цирковые представления (Развлечения)"}
+{"id": 38, "slug": "open", "name": "Дни открытых дверей"}
+{"id": 39, "slug": "other", "name": "Разное"}
+{"id": 40, "slug": "photo", "name": "Фотособытия"}
+{"id": 42, "slug": "global", "name": "В мире"}
+{"id": 44, "slug": "permanent-exhibitions", "name": "Постоянные выставки"}
+{"id": 45, "slug": "business-events", "name": "События для бизнеса"}
